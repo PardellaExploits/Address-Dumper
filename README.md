@@ -1,6 +1,7 @@
 # Address-Dumper
 An open source ROBLOX address dumper by DeserializedDevs. There are 2 versions; one made in C++ and one made in C#. -insert more documentation here-
 
+I dont know why this was forked, never used it pls no hate.
 
 Side note: Calling conventions are currently innacurate
 
